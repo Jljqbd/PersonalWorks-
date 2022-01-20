@@ -1,0 +1,11 @@
+# 个人作品
+1. [2019-nCoV infectious pneumonia SEIR mode](2019-nCoV infectious pneumonia SEIR mode.pdf)
+2. [Analysis of charging cost based on ridge regression](Analysis of charging cost based on ridge regression.pdf)
+3. [Analysis of Team Performance Through the Network](Analysis of Team Performance Through the Network.pdf)
+4. [Analysis of the Impact of Regional Economic Vitality Factors.pdf](Analysis of the Impact of Regional Economic Vitality Factors.pdf)
+5. [Course Arrangement System Desig](Course Arrangement System Desig.pdf)
+6. [基于 logistic 回归辨别图像的真伪](基于 logistic 回归辨别图像的真伪.pdf)
+7. [基于计算机仿真对“同心协力”策略研究](基于计算机仿真对“同心协力”策略研究.pdf)
+8. [集体建设用地市场改革对我国经济发展的影响评估](集体建设用地市场改革对我国经济发展的影响评估.pdf)
+9. [物流运输任务规划](物流运输任务规划.pdf)
+10. [印章制作切割优化方案设计.pdf](印章制作切割优化方案设计.pdf)
